@@ -1,0 +1,11 @@
+﻿Account Number;Routing Number;Account Nickname;Current Balance;earlyDirectDeposit;overdraftTransfer;overdraftProtection;accountType;dateOpened;nextStatementDate;accountOwner;currentTransaction
+123456789012;11000015;RainyDaySavings;$5,320.47;$1,200.50;$150.00;$100.00;Checking Account;January 15, 2020;January 15, 2025;John A. Smith;Purchase at Starbucks - $5.75
+987654321098;22000046;VacationFund;$1,250.80;$2,550.75;$250.00;$250.00;Savings Account;March 22, 2018;February 22, 2025;Maria L. Johnson;ATM Withdrawal - $100.00
+456789123456;31000503;EmergencyCash;$10,000.00;$850.00;$500.00;$500.00;Money Market Account;June 7, 2019;March 7, 2025;David M. Williams;Deposit from Paycheck - $1,200.00
+567890123456;41000124;CarLoanPayment;$2,875.15;$1,750.25;$75.00;$1,000.00;Certificate of Deposit (CD);October 1, 2021;April 1, 2025;Sarah T. Brown;Online Subscription - $12.99
+345678901234;51000010;HolidaySpending;$450.00;$3,100.00;$1,000.00;$750.00;Individual Retirement Account (IRA);December 5, 2017;May 5, 2025;Michael K. Davis;Grocery Store Purchase - $45.50
+876543210987;61000052;FamilyFund;$8,620.75;$2,000.40;$300.00;$200.00;Joint Account;August 14, 2020;June 10, 2025;Emily R. Taylor;Transfer to Savings - $200.00
+234567890123;71000013;TechUpgrade;$1,135.40;$950.00;$125.00;$1,500.00;Business Account;February 28, 2022;July 15, 2025;James P. Miller;Payment for Utility Bill - $75.00
+678901234567;81000041;HouseDownPayment;$15,000.00;$4,300.60;$200.00;$300.00;Student Account;May 11, 2016;August 20, 2025;Jessica A. Wilson;Restaurant Charge - $32.40
+890123456789;91000080;PetExpenses;$320.50;$1,450.90;$450.00;$2,000.00;High-Yield Savings Account;September 30, 2015;September 30, 2025;Robert D. Anderson;Venmo Payment to Friend - $50.00
+765432109876;101000157;FitnessGoals;$680.90;$2,725.15;$600.00;$400.00;Health Savings Account (HSA);July 19, 2023;October 25, 2025;Linda C. Thomas;Mobile App Purchase - $9.99
